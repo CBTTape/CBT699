@@ -1,5 +1,5 @@
-2025-04-15 04:50:39.932797 - Received CBT.V508.FILE699.PDS from FILE699.XMI 
-2025-04-15 04:50:39.933999 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE699.PDS, moved to PDS/$$$#DATE
-2025-04-15 04:50:39.934374 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE699.PDS, moved to PDS/$$NOTE1
-2025-04-15 04:50:39.934739 - Found @FILE699.txt (text/plain) in CBT.V508.FILE699.PDS, moved to PDS/@FILE699
-2025-04-15 04:50:39.935389 - Found XS.txt (text/plain) in CBT.V508.FILE699.PDS, moved to PDS/XS
+2025-04-15 23:30:37.916476 - Received CBT.V508.FILE699.PDS from FILE699.XMI 
+2025-04-15 23:30:37.917693 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE699.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:30:37.918050 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE699.PDS, moved to PDS/$$NOTE1
+2025-04-15 23:30:37.918130 - Found @FILE699.txt (text/plain) in CBT.V508.FILE699.PDS, moved to PDS/@FILE699
+2025-04-15 23:30:37.918577 - Found XS.txt (text/plain) in CBT.V508.FILE699.PDS, moved to PDS/XS
